@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageClassfication TensorFlow</string>
+    <string name="take_picture">Take Picture</string>
+</resources>
